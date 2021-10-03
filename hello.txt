@@ -3,5 +3,6 @@ hello gitttt
 hello gitttt
 hello gitttt
 hello gitttt
+<<<<<<< HEAD
 hello gitttt master
-hello gitttt
+hello gitttt hot-fix
